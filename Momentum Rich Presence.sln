@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Momentum Rich Presence", "Momentum Rich Presence\Momentum Rich Presence.csproj", "{4B06387D-4FDB-4B63-A83B-029307D0A5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B06387D-4FDB-4B63-A83B-029307D0A5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B06387D-4FDB-4B63-A83B-029307D0A5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B06387D-4FDB-4B63-A83B-029307D0A5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B06387D-4FDB-4B63-A83B-029307D0A5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB2C759E-56EB-42F4-B3C9-EB78E78E4B97}
+	EndGlobalSection
+EndGlobal
